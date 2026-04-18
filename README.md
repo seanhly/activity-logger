@@ -1,6 +1,6 @@
 # al: the activity logger
 
-![Logo](./docs/icons/256x256.png)
+![Logo](./docs/icons/256x256/al.png)
 
 al is a simple CLI-based tool for logging your mouse and keyboard activity to a
 file.  This can be useful for time and sleep tracking.
